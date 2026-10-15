@@ -1,1 +1,1 @@
-{"name":"ZUME Ritmo","short_name":"ZUME Ritmo","id":"/","start_url":"/","scope":"/","display":"standalone","theme_color":"#122b28","background_color":"#f3f4ed","icons":[{"src":"/assets/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"/assets/icon-512.png","sizes":"512x512","type":"image/png"}]}
+{"name":"Runners SCC","short_name":"Runners SCC","id":"/","start_url":"/","scope":"/","display":"standalone","theme_color":"#122b28","background_color":"#f3f4ed","icons":[{"src":"/assets/running-group-scc.png","sizes":"785x785","type":"image/png","purpose":"any"}]}
